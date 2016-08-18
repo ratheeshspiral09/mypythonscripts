@@ -27,14 +27,15 @@ This will copy all mp3 files in folder /home/ratheesh/Desktop/prajeesh/ to subfo
 
 #rankbrand.py
 -------------------
+This script will gives you the rank of a brand in amazon for some particular keywords
 
 Installation Instructions
--------------------------------------
+-----
 
-(1) Create a VirtualENV
-(2) Execute " pip install requests bs4 "
-(3) Download and copy the script "scarp.py"  to a folder 
-(4) Run   python scrap.py "hair fall shampoo,hair conditioner"
+Create a VirtualENV
+Execute " pip install requests bs4 "
+Download and copy the script "scarp.py"  to a folder 
+Run   python rankbrand.py "hair fall shampoo,hair conditioner"
 
 
 Output
