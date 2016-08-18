@@ -11,7 +11,7 @@ This will copy all  files in a particular extension from a folder mentioned to s
 
 try like  :   
 
-python file.py <<source_folder_path>> <<extension>> <<size_in_mb>> <<destination_path>> <<command: copy/move>
+python file.py source_folder_path extension size_in_mb destination_path command: copy/move
 
 
 Example
